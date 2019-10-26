@@ -1,4 +1,5 @@
 /*LINEAR SEARCH USING WHILE LOOP IN JAVA*/
+/*NILARGHA ROY*/
 
 import java.util.*;
 class Linearsearch

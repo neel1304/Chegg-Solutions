@@ -44,8 +44,12 @@ int main() {
 }
 
 
+Sample Input: 
+5
+1 1 1 2 3
 
-
+Sample Output:
+The value of i where A[i]!=A[i+1] is 2
 
 
 
